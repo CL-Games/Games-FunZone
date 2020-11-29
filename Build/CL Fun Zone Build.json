@@ -1,0 +1,13 @@
+{
+"companyName": "CuteLiu Development",
+"productName": "Fun Zone!",
+"dataUrl": "CL Fun Zone Build.data.unityweb",
+"wasmCodeUrl": "CL Fun Zone Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "CL Fun Zone Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CL Fun Zone Build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
